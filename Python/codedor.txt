@@ -1,0 +1,17 @@
+var 0 0
+var zero 0
+var one 1
+var none -1
+var temp 0
+var temp2 0
+var byte 8
+var bits 32
+var thirtyone 31
+var a 5
+var b 3
+var c 1000000
+var two 2
+
+shift a b
+
+stop
